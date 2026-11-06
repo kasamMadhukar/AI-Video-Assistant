@@ -1,0 +1,25 @@
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Downloaded audio and temporary files
+downloads/
+*.mp3
+*.wav
+*.mp4
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+downloads/*.wav
